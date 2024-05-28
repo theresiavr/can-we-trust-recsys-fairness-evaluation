@@ -11,7 +11,7 @@ Relevance and fairness are two major objectives of recommender systems (RSs). Re
 The code is usable under the MIT License. Please note that RecBole may have different terms of usage (see [their page](https://github.com/RUCAIBox/RecBole) for updated information).
 
 # Citation
-If you use the code for the fairness-only measures in metrics.py, please cite our paper and the original papers proposing the measures.
+If you use the code for the fairness-only measures in `metrics.py`, please cite our paper and the original papers proposing the measures.
 ```BibTeX
 @article{10.1145/3631943,
 author = {Rampisela, Theresia Veronika and Maistro, Maria and Ruotsalo, Tuukka and Lioma, Christina},
