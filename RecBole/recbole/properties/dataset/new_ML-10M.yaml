@@ -1,0 +1,10 @@
+load_col:
+    inter: [user_id,item_id,label,timestamp]
+filter_inter_by_user_or_item: False
+
+LABEL_FIELD: label
+NEG_PREFIX: neg_
+
+
+num_clusters: 250
+benchmark_filename: ['train', 'valid', 'test']

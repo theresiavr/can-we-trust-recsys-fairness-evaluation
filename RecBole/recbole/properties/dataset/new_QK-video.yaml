@@ -1,0 +1,9 @@
+
+
+load_col: 
+    inter: [user_id, item_id]
+filter_inter_by_user_or_item: False
+
+
+num_clusters: 120
+benchmark_filename: ['train', 'valid', 'test']

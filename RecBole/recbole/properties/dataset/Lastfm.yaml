@@ -1,0 +1,18 @@
+field_separator: "\t"
+ITEM_ID_FIELD: artist_id
+rm_dup_inter: last
+
+load_col: 
+    inter: [user_id, artist_id]
+filter_inter_by_user_or_item: False
+user_inter_num_interval: "[5,inf)"
+item_inter_num_interval: "[5,inf)"
+
+eval_args: 
+  split: {'RS':[0.6,0.2,0.2]}
+  group_by: none
+  order: RO
+  mode: full
+
+
+num_clusters: 50

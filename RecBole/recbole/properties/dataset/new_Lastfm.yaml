@@ -1,0 +1,11 @@
+ITEM_ID_FIELD: artist_id
+
+
+load_col: 
+    inter: [user_id, artist_id]
+filter_inter_by_user_or_item: False
+
+
+
+num_clusters: 50
+benchmark_filename: ['train', 'valid', 'test']

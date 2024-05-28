@@ -1,0 +1,3 @@
+dropout_prob choice [0.1, 0.2, 0.5] 
+latent_dimension choice [64,128,256]
+learning_rate choice [1e-3,5e-3]

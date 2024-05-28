@@ -1,0 +1,18 @@
+load_col:
+    inter: [user_id,item_id,rating,timestamp]
+filter_inter_by_user_or_item: False
+user_inter_num_interval: "[5,inf)"
+item_inter_num_interval: "[5,inf)"
+
+rm_dup_inter: last
+
+RATING_FIELD: rating
+LABEL_FIELD: label
+NEG_PREFIX: neg_
+
+val_interval:
+    rating: "[3,5]"
+threshold:
+    rating: 3
+
+num_clusters: 250

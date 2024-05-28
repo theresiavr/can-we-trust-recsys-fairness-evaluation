@@ -1,0 +1,16 @@
+Best hyperparameter for ItemKNN - Amazon-lb: {'k': 50}
+Best hyperparameter for ItemKNN - Lastfm: {'k': 750}
+Best hyperparameter for ItemKNN - QK-video: {'k': 500}
+Best hyperparameter for ItemKNN - ML-10M: {'k': 750}
+Best hyperparameter for BPR - Amazon-lb: {'embedding_size': 2048, 'learning_rate': 0.005}
+Best hyperparameter for BPR - Lastfm: {'embedding_size': 1024, 'learning_rate': 0.0005}
+Best hyperparameter for BPR - QK-video: {'embedding_size': 2048, 'learning_rate': 0.0005}
+Best hyperparameter for BPR - ML-10M: {'embedding_size': 1024, 'learning_rate': 0.0005}
+Best hyperparameter for MultiVAE - Amazon-lb: {'dropout_prob': 0.5, 'latent_dimension': 64, 'learning_rate': 0.005}
+Best hyperparameter for MultiVAE - Lastfm: {'dropout_prob': 0.5, 'latent_dimension': 256, 'learning_rate': 0.001}
+Best hyperparameter for MultiVAE - QK-video: {'dropout_prob': 0.5, 'latent_dimension': 256, 'learning_rate': 0.001}
+Best hyperparameter for MultiVAE - ML-10M: {'dropout_prob': 0.5, 'latent_dimension': 256, 'learning_rate': 0.001}
+Best hyperparameter for NCL - Amazon-lb: {'alpha': 1, 'learning_rate': 0.005, 'ssl_reg': 1e-06}
+Best hyperparameter for NCL - Lastfm: {'alpha': 1, 'learning_rate': 0.005, 'ssl_reg': 1e-06}
+Best hyperparameter for NCL - QK-video: {'alpha': 1, 'learning_rate': 0.005, 'ssl_reg': 1e-07}
+Best hyperparameter for NCL - ML-10M: {'alpha': 1, 'learning_rate': 0.001, 'ssl_reg': 1e-06}
