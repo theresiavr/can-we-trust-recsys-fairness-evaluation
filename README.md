@@ -37,7 +37,7 @@ We use the following datasets, that can be downloaded from the Google Drive fold
 - Lastfm is under the LastFM folder
 - Ml-10m is under the MovieLens folder; the file is ml-10m.zip
 
-1. Download the zip files corresponding to the full datasets (not the examples), place them inside the empty dataset folder in the main folder.
+1. Download the zip files corresponding to the full datasets (not the examples) and place them inside an empty `dataset` folder in the main folder.
 2. Unzip the files.
 3. Ensure that the name of the folder and the .inter files are the same as in the [dataset properties](https://github.com/theresiavr/can-we-trust-recsys-fairness-evaluation/tree/main/RecBole/recbole/properties/dataset).
 
