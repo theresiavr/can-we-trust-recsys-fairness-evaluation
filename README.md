@@ -1,6 +1,6 @@
-# Can We Trust Recommender System Fairness Evaluation: The Role of Fairness and Relevance ⚖ (SIGIR 2024 Full Paper) 
+# Can We Trust Recommender System Fairness Evaluation? The Role of Fairness and Relevance ⚖ (SIGIR 2024 Full Paper) 
 
-This repository contains the appendix as well as the code used for the experiments and analysis in "Can We Trust Recommender System Fairness Evaluation: The Role of Fairness and Relevance" by Theresia Veronika Rampisela, Tuukka Ruotsalo, Maria Maistro, and Christina Lioma. This work has been accepted to SIGIR 2024 as a full paper. 
+This repository contains the appendix as well as the code used for the experiments and analysis in "Can We Trust Recommender System Fairness Evaluation? The Role of Fairness and Relevance" by Theresia Veronika Rampisela, Tuukka Ruotsalo, Maria Maistro, and Christina Lioma. This work has been accepted to SIGIR 2024 as a full paper. 
 
 [arXiv] (coming soon)
 
