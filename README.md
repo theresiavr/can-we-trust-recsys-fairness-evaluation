@@ -16,19 +16,39 @@ If you use the code for the fairness-only measures in `metrics.py`, please cite 
 @article{10.1145/3631943,
 author = {Rampisela, Theresia Veronika and Maistro, Maria and Ruotsalo, Tuukka and Lioma, Christina},
 title = {Evaluation Measures of Individual Item Fairness for Recommender Systems: A Critical Study},
-year = {2023},
+year = {2024},
+issue_date = {June 2025},
 publisher = {Association for Computing Machinery},
 address = {New York, NY, USA},
+volume = {3},
+number = {2},
 url = {https://doi.org/10.1145/3631943},
 doi = {10.1145/3631943},
-note = {Just Accepted},
 journal = {ACM Trans. Recomm. Syst.},
-month = {nov},
+month = nov,
+articleno = {18},
+numpages = {52},
+keywords = {Item fairness, individual fairness, fairness measures, evaluation measures, recommender systems}
 }
 ```
-
-Citation for the paper will be updated soon.
-
+If you use the code outside of RecBole's original code, please cite the following:
+```BibTeX
+@inproceedings{10.1145/3626772.3657832,
+author = {Rampisela, Theresia Veronika and Ruotsalo, Tuukka and Maistro, Maria and Lioma, Christina},
+title = {Can We Trust Recommender System Fairness Evaluation? The Role of Fairness and Relevance},
+year = {2024},
+isbn = {9798400704314},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3626772.3657832},
+doi = {10.1145/3626772.3657832},,
+pages = {271–281},
+numpages = {11},
+keywords = {fairness and relevance evaluation, recommender systems},
+location = {Washington DC, USA},
+series = {SIGIR '24}
+}
+```
 # Datasets
 
 ## Downloads
