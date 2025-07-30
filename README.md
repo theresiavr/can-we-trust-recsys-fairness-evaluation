@@ -52,7 +52,7 @@ series = {SIGIR '24}
 # Datasets
 
 ## Downloads
-We use the following datasets, that can be downloaded from the Google Drive folder provided by [RecBole](https://recbole.io/dataset_list.html), under ProcessedDatasets:
+We use the following datasets, which can be downloaded from the Google Drive folder provided by [RecBole](https://recbole.io/dataset_list.html), under ProcessedDatasets:
 - Amazon-lb: this dataset can be found in the Amazon2018 folder. The name of the folder is Amazon_Luxury_Beauty
 - Lastfm is under the LastFM folder
 - Ml-10m is under the MovieLens folder; the file is ml-10m.zip
